@@ -1,0 +1,30 @@
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\bin\Debug\net8.0\appsettings.json
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\bin\Debug\net8.0\The night.staticwebassets.runtime.json
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\bin\Debug\net8.0\The night.exe
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\bin\Debug\net8.0\The night.deps.json
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\bin\Debug\net8.0\The night.runtimeconfig.json
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\bin\Debug\net8.0\The night.dll
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\bin\Debug\net8.0\The night.pdb
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.AssemblyInfoInputs.cache
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.AssemblyInfo.cs
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.csproj.CoreCompileInputs.cache
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.RazorAssemblyInfo.cache
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.RazorAssemblyInfo.cs
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\staticwebassets\msbuild.The night.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\staticwebassets\msbuild.build.The night.props
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.The night.props
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.The night.props
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\scopedcss\bundle\The night.styles.css
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\scopedcss\projectbundle\The night.bundle.scp.css
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.dll
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\refint\The night.dll
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.pdb
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\The night.genruntimeconfig.cache
+C:\Users\juane\OneDrive\Escritorio\Adriana\The night\The night\obj\Debug\net8.0\ref\The night.dll
